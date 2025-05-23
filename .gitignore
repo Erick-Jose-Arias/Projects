@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+*.env
+
+# Power BI binary files (optional, if you don't want to version them)
+*.pbix
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Model artifacts & cache
+*.onnx
+*.joblib
+*.pkl
+*.h5
+
+# Logs and outputs
+*.log
+logs/
+output/
+
+# Large data files
+data/
+*.csv
+*.xlsx
+*.pdf
