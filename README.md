@@ -1,5 +1,7 @@
 📊 Data Engineering Portfolio by Erick Arias
-Welcome to my data engineering project portfolio! This repository showcases a series of applied data projects focusing on ETL automation, natural language processing, predictive analytics, and simulation optimization using machine learning. Each project was selected to emphasize robust data pipelines, model optimization, and impactful visualization.
+
+Welcome to my data engineering project portfolio! 
+This repository showcases a series of applied data projects focusing on ETL automation, natural language processing, predictive analytics, and simulation optimization using machine learning. Each project was selected to emphasize robust data pipelines, model optimization, and impactful visualization.
 
 🔧 Project 1: Invoice Parser & Automated Oil Change Reminder
 Description:
